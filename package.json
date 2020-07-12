@@ -2,6 +2,7 @@
   "name": "zhihu-web",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://maxw2.github.io/zhihu-web/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
